@@ -1,5 +1,5 @@
 ## NewsGateway
-An Android app that displays current news articles from a wide variety of news sources covering a range of news categories.
+An Android app that displays current news articles from a wide variety of news sources, covering a range of news categories.
 
 ## Screenshots 
 <img src="https://user-images.githubusercontent.com/22254732/119577813-f4798400-bd80-11eb-8ecd-3cee98141ee4.png" width="180" height="300">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/22254732/119577815-f5121a80-bd80-11eb-92a0-5e56cccafb7d.png" width="180" height="300">&nbsp;&nbsp;&nbsp;&nbsp;
